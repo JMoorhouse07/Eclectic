@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "friendlychat": "friendlychat-9b336",
+    "fc": "friendlychat-9b336",
+    "default": "eclectic-974c1",
+    "chat": "friendlychat-9b336",
+    "eclectic": "eclectic-974c1"
+  }
+}
